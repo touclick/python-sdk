@@ -1,5 +1,7 @@
 # 点触验证码 Python SDK
 
+#####[其他语言SDK以及JS API https://github.com/touclick/captcha-demo](https://github.com/touclick/captcha-demo)
+
 ## 开发环境
 
  - Python (推荐2.7.0以上版本）
